@@ -12,5 +12,5 @@ bar() ->
 
 -ifdef(TEST).
 bar_test_() ->
-    [?_assertEqual(xxx, bar())].
+    [?_assertEqual(xxx1, bar())].
 -endif.
