@@ -2,3 +2,4 @@
 /ebin/
 /tags
 /.eunit
+/.rebar
