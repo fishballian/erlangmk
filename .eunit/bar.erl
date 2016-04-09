@@ -1,2 +1,0 @@
--module(bar).
--callback bar() -> any().
